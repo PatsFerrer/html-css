@@ -7,3 +7,5 @@
 
 Meus Exercícios:
  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
+
+  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex002/index.html">Exercício 002</a>
