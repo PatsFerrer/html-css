@@ -5,7 +5,9 @@
 
  Mais um teste de atualização, pra ver se aprendi.
 
-Meus Exercícios:
+<p>Meus Exercícios:</p>
  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
 
   <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex002/index.html">Exercício 002</a>
+  
+  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex003/index.html">Exercício 003</a>
