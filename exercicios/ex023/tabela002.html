@@ -18,6 +18,7 @@ Ex: td:nth-child(2) {
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
 
         td, th {
@@ -28,6 +29,12 @@ Ex: td:nth-child(2) {
         thead, tfoot {
             background-color: #383838;
             color: white;
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: #383838;
         }
 
         caption {
