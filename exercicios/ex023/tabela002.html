@@ -26,8 +26,15 @@ Ex: td:nth-child(2) {
         }
 
         thead, tfoot {
-            background-color: gray;
+            background-color: #383838;
             color: white;
+        }
+
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
         }
 
         td.num {
@@ -40,10 +47,11 @@ Ex: td:nth-child(2) {
     <h1>Uso de tabelas grandes</h1>
 
     <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Estado </th>
-                <th>População</th>
+                <th scope="col">Estado </th>
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
 
@@ -160,8 +168,8 @@ Ex: td:nth-child(2) {
 
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
-                <td>00000</td>
+                <th scope="row">Total de Habitantes</th>
+                <td>210.147.125</td>
             </tr>
         </tfoot>
     </table>
