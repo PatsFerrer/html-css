@@ -6,11 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
         table {
             border: 1px solid black;
             border-collapse: collapse;
-            width: 300px;
-            
+            width: 500px;
+            position: relative;
+        }
+
+        thead {
+            position: sticky;
+            top: -1px;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: rgba(146, 127, 255, 0.548);
         }
 
         td, th{
@@ -23,20 +35,37 @@
         }
 
         thead, tfoot {
-            background-color: red;
+            background-color: rgba(255, 0, 0, 0.596);
         }
 
     </style>
 </head>
 <body>
     <table>
+        <caption>CAPTION: NADA TEM A VER</caption>
         <thead>
             <tr>
-                <th>Título</th>
-                <th>Exemplo</th>
+                <th scope="col">Título TH</th>
+                <th scope="col">Exemplo TH</th>
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>sou um TD</td>
+                <td>TD</td>
+            </tr>
+            <tr>
+                <td>treta</td>
+                <td>treta2</td>
+            </tr>
+            <tr>
+                <td>ola</td>
+                <td>mundo</td>
+            </tr>
+            <tr>
+                <td>e ai</td>
+                <td>estou na direita</td>
+            </tr>
             <tr>
                 <td>olar</td>
                 <td>olar2</td>
@@ -53,11 +82,59 @@
                 <td>e ai</td>
                 <td>estou na direita</td>
             </tr>
+            <tr>
+                <td>olar</td>
+                <td>olar2</td>
+            </tr>
+            <tr>
+                <td>treta</td>
+                <td>treta2</td>
+            </tr>
+            <tr>
+                <td>ola</td>
+                <td>mundo</td>
+            </tr>
+            <tr>
+                <td>e ai</td>
+                <td>estou na direita</td>
+            </tr>
+            <tr>
+                <td>olar</td>
+                <td>olar2</td>
+            </tr>
+            <tr>
+                <td>treta</td>
+                <td>treta2</td>
+            </tr>
+            <tr>
+                <td>ola</td>
+                <td>mundo</td>
+            </tr>
+            <tr>
+                <td>e ai</td>
+                <td>estou na direita</td>
+            </tr>
+            <tr>
+                <td>olar</td>
+                <td>olar2</td>
+            </tr>
+            <tr>
+                <td>treta</td>
+                <td>treta2</td>
+            </tr>
+            <tr>
+                <td>ola</td>
+                <td>mundo</td>
+            </tr>
+            <tr>
+                <td>Em baixo de mim, tem SCOPE</td>
+                <td>estou na direita</td>
+            </tr>
         </tbody>
         <tfoot>
             <tr>
-                <th>titulo do fim</th>
-                <td>irineu</td>
+                <th scope="row">titulo do fim TH</th>
+                <td>Resultado TD</td>
             </tr>
         </tfoot>
     </table>
