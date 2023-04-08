@@ -40,6 +40,14 @@ Ex: td:nth-child(2) {
         td.num {
             text-align: right;
         }
+
+        tbody > tr:nth-child(odd) { /* 2n-1*/
+            background-color: rgb(206, 206, 206);
+        }
+
+        tbody > tr:nth-child(even) { /* 2n */
+            background-color: rgb(139, 137, 137);
+        }
         
     </style>
 </head>
