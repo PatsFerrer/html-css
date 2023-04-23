@@ -19,7 +19,7 @@
 
   <a target="_blank" href="https://patsferrer.github.io/projeto-social/">Desafio Redes Sociais</a>
 
-<br> <hr style="border: 2px solid #8c09a7;"> <br>
+<br> <hr> <br>
 
 <p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/patsferrer/">Instagram pessoal</a></p>
 
