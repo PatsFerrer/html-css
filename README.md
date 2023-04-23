@@ -4,14 +4,14 @@
  Aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
 
-<p>Exercícios do Curso:</p>
- <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
+<p style="font-weight: bold;">Exercícios do Curso:</p>
+  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
 
   <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex002/index.html">Exercício 002</a>
   
   <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex003/index.html">Exercício 003</a>
 
-  <p>Desafios do Curso:</p>
+  <p style="font-weight: bold;">Desafios do Curso:</p>
 
   <a target="_blank" href="https://patsferrer.github.io/html-css/desafios/d010%20fiz%20sozinha/index.html">Desafio Android</a> 
 
