@@ -19,7 +19,9 @@
 
   <a target="_blank" href="https://patsferrer.github.io/projeto-social/">Desafio Redes Sociais</a>
 
-<br> <hr style="border: 2px solid #8c09a7; flex-grow: 1;"> <br>
+<br>
+  <a style="text-decoration: none; color: red; border: 1px solid black; padding: 5px; font-weight: bold;" href="https://github.com/gustavoguanabara/html-css/tree/fe6653ecdafa5b7275a5ecb4c36a8ca14f5043e7/aulas-pdf">Todas as apostilas do curso</a>
+<br>
 
 <p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/patsferrer/">Instagram pessoal</a></p>
 
