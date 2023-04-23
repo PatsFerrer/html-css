@@ -4,14 +4,14 @@
  Aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
 
-<p>Exercícios do Curso:</p>
- <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
+  <p style="font-weight: bold;">Exercícios do Curso:</p>
+  <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a>
 
   <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex002/index.html">Exercício 002</a>
   
   <a target="_blank" href="https://patsferrer.github.io/html-css/exercicios/ex003/index.html">Exercício 003</a>
 
-  <p>Desafios do Curso:</p>
+  <p style="font-weight: bold;">Desafios do Curso:</p>
 
   <a target="_blank" href="https://patsferrer.github.io/html-css/desafios/d010%20fiz%20sozinha/index.html">Desafio Android</a> 
 
@@ -23,6 +23,6 @@
   <a style="text-decoration: none; color: red; border: 1px solid black; padding: 5px; font-weight: bold;" href="https://github.com/gustavoguanabara/html-css/tree/fe6653ecdafa5b7275a5ecb4c36a8ca14f5043e7/aulas-pdf">Todas as apostilas do curso</a>
 <br>
 
-<p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/patsferrer/">Instagram pessoal</a></p>
+  <p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/patsferrer/">Instagram pessoal</a></p>
 
-<p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/parscodefly/"><abbr title="Eu sou newbie">Instagram dos projetos</abbr></a></p>
+  <p><a style="text-decoration: none; color: purple; border: 1px solid black; padding: 5px; font-weight: bold; " target="_blank" href="https://www.instagram.com/parscodefly/"><abbr title="Eu sou newbie">Instagram dos projetos</abbr></a></p>
