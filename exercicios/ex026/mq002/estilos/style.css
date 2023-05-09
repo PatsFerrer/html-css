@@ -11,8 +11,11 @@
 html, body {
     width: 100vw;
     height: 100vh;
+
     background-color: #233eff;
     background-size: contain;
+    /* aqui usamos o 'cantain' com o background-color combando a mesma cor de fundo com a cor da imagem, poderiamos tb usar o 'cover' no background-size, porem se diminuir muito a tela.. a imagem ficaria cortada */
+    
     background-repeat: no-repeat;
 }
 
